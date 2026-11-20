@@ -1,5 +1,5 @@
 view: cross_channel_autopacing_perf_looker_dtable {
-  # Exact, case-sensitive name of the dynamic table (quotes required).
+  # TODO: keep the sql_table_name line from your existing view if it differs.
   sql_table_name: DWH.DBO."Cross_Channel_Autopacing_Perf_Looker_dtable" ;;
 
   # ---------------------------------------------------------------- keys
