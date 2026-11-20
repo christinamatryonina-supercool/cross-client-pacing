@@ -1,6 +1,6 @@
 view: cross_channel_autopacing_perf_looker_dtable {
   # TODO: keep the sql_table_name line from your existing view if it differs.
-  sql_table_name: DWH.DBO.CROSS_CHANNEL_AUTOPACING_PERF_LOOKER_DTABLE ;;
+  sql_table_name: DWH.DBO."Cross_Channel_Autopacing_Perf_Looker_dtable" ;;
 
   # ---------------------------------------------------------------- keys
   dimension: pk {
